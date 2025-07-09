@@ -130,39 +130,10 @@ uvicorn main:app --reload
 ✅ Test your `.gitignore` by running `git status` before committing.
 
 
-## 📚 Common Git Commands
-
-```bash
-# Initialize Git repository (only once)
-git init
-
-# Add remote repository
-git remote add origin hhttps://github.com/Shannaseem/AccessPoint-.git
-
-# Add all files for tracking
-git add .
-
-# Commit changes
-git commit -m "Initial commit"
-
-# Set branch and push to GitHub
-git branch -M main
-git push -u origin main
-```
-
----
-
-## 🗄️ Database
-
-* The `DATABASE.sql` file can contain your table creation scripts (without real data).
-* Make sure your DB user and password are configured correctly in your `.env`.
-
----
-
 ## 🙌 Author
 
 **Project:** VaultAuth
-**Author:** *Your Name*
+**Author:** *Shannaseem*
 **Tech Stack:** Python, FastAPI, Uvicorn, HTML, dotenv
 
 ---
