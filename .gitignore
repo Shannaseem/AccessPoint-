@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# VS Code temp files (optional but good)
+tempCodeRunnerFile.py
+
+# Virtual environments (if you create one in your folder)
+venv/
